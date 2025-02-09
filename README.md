@@ -34,12 +34,14 @@ For Software:
 
 
 Project Documentation
-Features
+screenshorts
+
 
 - Authentication System
 - Student Dashboard
 - Assignment List (Student)
 - Code Compiler/Editor (Student)
+ https://github.com/Aiswaryabinu/lab_management_app/blob/f0b614565a40952397c2e9c2b176d38c338cf342/Screenshot%202025-02-09%20110901.png
 - Teacher Dashboard
 - Create Labs (Teacher)
 - Create Assignments (Teacher)
