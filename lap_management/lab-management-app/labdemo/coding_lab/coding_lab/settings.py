@@ -7,7 +7,7 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ["lab-management-app.onrender.com"]
+ALLOWED_HOSTS = ['lab-management-app.onrender.com','0.0.0.0']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
