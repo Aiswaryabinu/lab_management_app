@@ -38,6 +38,7 @@ screenshorts
 
 
 - Authentication System
+ https://github.com/Aiswaryabinu/lab_management_app/blob/4f1d9acd48c728b66d1f410d89011519404ad474/Screenshot%202025-02-09%20084604.png
 - Student Dashboard
 - Assignment List (Student)
 - Code Compiler/Editor (Student)
