@@ -39,6 +39,6 @@ Screenshots
 - 
 Diagrams
 
-
+https://github.com/Aiswaryabinu/lab_management_app/blob/2723699a30e679c82b60a03af83f93cdb1776f2d/map.jpg
 - System Workflow
 
