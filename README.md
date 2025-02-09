@@ -35,10 +35,15 @@ For Software:
 
 Project Documentation
 Screenshots
+
+- Authentication System
 - Student Dashboard
+- Assignment List (Student)
+- Code Compiler/Editor (Student)
 - Teacher Dashboard
-- AI Code Review
-- 
+- Create Labs (Teacher)
+- Create Assignments (Teacher)
+  
 Diagrams
 
 https://github.com/Aiswaryabinu/lab_management_app/blob/2723699a30e679c82b60a03af83f93cdb1776f2d/map.jpg
