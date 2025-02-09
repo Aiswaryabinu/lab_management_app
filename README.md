@@ -34,7 +34,7 @@ For Software:
 
 
 Project Documentation
-Screenshots
+Features
 
 - Authentication System
 - Student Dashboard
