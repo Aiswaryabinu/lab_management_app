@@ -36,3 +36,11 @@ Screenshots
 - 
 Diagrams
 - System Workflow
+
+- Authentication System
+- Student Dashboard
+- Assignment List (Student)
+- Code Compiler/Editor (Student)
+- Teacher Dashboard
+- Create Labs (Teacher)
+- Create Assignments (Teacher)
