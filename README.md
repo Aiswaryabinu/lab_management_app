@@ -47,6 +47,7 @@ screenshorts
 - Teacher Dashboard
   https://github.com/Aiswaryabinu/lab_management_app/blob/733b02ea4ee7695df5454666c9c7ba7b526342d1/Screenshot%202025-02-09%20111549.png
 - Create Labs (Teacher)
+  https://github.com/Aiswaryabinu/lab_management_app/blob/f26b8b5c020c958776d59d97e447d8c23689a43d/Screenshot%202025-02-09%20111733.png
 - Create Assignments (Teacher)
   
 Diagrams
