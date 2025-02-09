@@ -12,12 +12,15 @@ Member 3: Catherin Maria Jacob - cusat
 Hosted Project Link: [Insert Hosted Project Link]
 
 Project Description
-The Coding Lab Management System is a web-based platform designed to streamline coding lab operations by allowing students to receive assignments, write and execute code online, and submit it for AI-assisted review. The superadmin (teacher) manages labs, assigns questions, detects malpractice, and scores submissions.
+
+The Coding Lab Management System is an innovative web platform designed to revolutionize coding education. It empowers students to write, compile, and submit code seamlessly while providing educators with advanced tools to manage assignments, evaluate submissions, and uphold academic collaboration.
 
 The Problem Statement
-Managing coding assignments, preventing malpractice, and ensuring students receive structured feedback are challenges in a traditional lab setting.
+
+Managing coding labs in educational institutions is inefficient due to the lack of a centralized system for assigning coding problems, compiling and submitting code, tracking student progress and tracking of student progress by the educators.
 
 The Solution
+
 We developed a Coding Lab Management System to streamline lab-based programming education by enabling teachers to create and manage assignments, students to write and submit code with real-time compilation, and providing a centralized platform for both teacher and student convenience.
 Technologies/Components Used
 For Software:
