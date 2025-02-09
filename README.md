@@ -45,6 +45,7 @@ screenshorts
 - Code Compiler/Editor (Student)
  https://github.com/Aiswaryabinu/lab_management_app/blob/f0b614565a40952397c2e9c2b176d38c338cf342/Screenshot%202025-02-09%20110901.png
 - Teacher Dashboard
+  https://github.com/Aiswaryabinu/lab_management_app/blob/733b02ea4ee7695df5454666c9c7ba7b526342d1/Screenshot%202025-02-09%20111549.png
 - Create Labs (Teacher)
 - Create Assignments (Teacher)
   
