@@ -41,6 +41,7 @@ screenshorts
  https://github.com/Aiswaryabinu/lab_management_app/blob/4f1d9acd48c728b66d1f410d89011519404ad474/Screenshot%202025-02-09%20084604.png
 - Student Dashboard
 - Assignment List (Student)
+  https://github.com/Aiswaryabinu/lab_management_app/blob/9be4ff664d696960f8904214ec78761b3a039a26/Screenshot%202025-02-09%20111057.png
 - Code Compiler/Editor (Student)
  https://github.com/Aiswaryabinu/lab_management_app/blob/f0b614565a40952397c2e9c2b176d38c338cf342/Screenshot%202025-02-09%20110901.png
 - Teacher Dashboard
